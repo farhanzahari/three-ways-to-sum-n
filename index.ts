@@ -1,6 +1,7 @@
 function is_legible(n: number): boolean {
     if(!Number.isSafeInteger(n)) return false
     if(n < 0) return false
+    if (!Number.isSafeInteger(n*(n+1)/2)) return false
     return true;
 } 
 
