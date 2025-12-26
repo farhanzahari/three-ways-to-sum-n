@@ -1,0 +1,19 @@
+{
+  "name": "three-ways-to-sum-n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npx tsx index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanzahari/three-ways-to-sum-n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhanzahari/three-ways-to-sum-n/issues"
+  },
+  "homepage": "https://github.com/farhanzahari/three-ways-to-sum-n#readme"
+}
